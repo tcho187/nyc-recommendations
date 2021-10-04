@@ -16,7 +16,7 @@ The purpose of this project is to create a recommendation engine of NYC restaura
 * PostGreSQL
 
 ## Project Description
-* Collect TikTok data using TikTokApi in Python
+* Collect TikTok data using TikTokApi in Python. Collect data from popular influencers and their recommendations on restaurants/bars.
 * Store data in a database AWS RDS. SQLAlchemy to insert entries
 * Scrape list of NYC restaurants
 * Extract implicit recommendations using N-Gram

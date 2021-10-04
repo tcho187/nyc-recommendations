@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/thomascho/IdeaProjects/firstApplication/target/scala-2.12/firstapplication_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomascho/IdeaProjects/firstApplication/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tenten[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomascho/IdeaProjects/firstApplication/target/scala-2.12/classes/com/tenten[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tenten/mi[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomascho/IdeaProjects/firstApplication/target/scala-2.12/classes/com/tenten/mi[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tenten/mi/jobs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomascho/IdeaProjects/firstApplication/target/scala-2.12/classes/com/tenten/mi/jobs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tenten/mi/jobs/RecommendationSystem$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomascho/IdeaProjects/firstApplication/target/scala-2.12/classes/com/tenten/mi/jobs/RecommendationSystem$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tenten/mi/jobs/RecommendationSystem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomascho/IdeaProjects/firstApplication/target/scala-2.12/classes/com/tenten/mi/jobs/RecommendationSystem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tenten/mi/jobs/RecommendationWrapper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomascho/IdeaProjects/firstApplication/target/scala-2.12/classes/com/tenten/mi/jobs/RecommendationWrapper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tenten/mi/jobs/RecommendationSystem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/thomascho/IdeaProjects/firstApplication/target/scala-2.12/classes/com/tenten/mi/jobs/RecommendationSystem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
